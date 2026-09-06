@@ -76,8 +76,9 @@ Engineering — *August 2016 – October 2020*
 
 ## Skills
 
-**Data Engineering:** Apache Spark, Databricks (Azure), SQL, Python, ETL
-pipeline design, Talend, Hive, Hadoop/HDFS, PostgreSQL
+**Data Engineering:** Apache Spark, Databricks (Azure), SQL, Python, ETL/ELT
+pipeline design, Airflow, dbt, Talend, Hive, Hadoop/HDFS, data modeling,
+lakehouse, PostgreSQL
 
 **ML / AI:** MLflow, XGBoost, SHAP, BERT fine-tuning, collaborative filtering /
 recommenders, LLM evaluation
